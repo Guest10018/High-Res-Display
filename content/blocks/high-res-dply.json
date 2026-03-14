@@ -10,7 +10,7 @@
 	],
 
 	"health": 800,
-	"size": 2,
+	"size": 8,
 	"displaySize": 1024,
 	"maxSides": 32
 }
